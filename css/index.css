@@ -214,3 +214,15 @@ footer {
 .section-heading {
   background: #f5f4fa;
 }
+
+.page-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.card-set {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
